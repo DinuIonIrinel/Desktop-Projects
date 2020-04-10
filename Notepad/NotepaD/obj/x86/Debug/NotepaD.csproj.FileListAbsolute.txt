@@ -1,0 +1,26 @@
+c:\users\johny\documents\visual studio 2010\Projects\NotepaD\NotepaD\bin\Debug\NotepaD.exe
+c:\users\johny\documents\visual studio 2010\Projects\NotepaD\NotepaD\bin\Debug\NotepaD.pdb
+c:\users\johny\documents\visual studio 2010\Projects\NotepaD\NotepaD\obj\x86\Debug\NotepaD.Properties.Resources.resources
+c:\users\johny\documents\visual studio 2010\Projects\NotepaD\NotepaD\obj\x86\Debug\NotepaD.csproj.GenerateResource.Cache
+c:\users\johny\documents\visual studio 2010\Projects\NotepaD\NotepaD\obj\x86\Debug\NotepaD.exe
+c:\users\johny\documents\visual studio 2010\Projects\NotepaD\NotepaD\obj\x86\Debug\NotepaD.pdb
+C:\Users\Johny\Documents\Visual studio 2010\Projects\NotepaD\NotepaD\obj\x86\Debug\NotepaD.csprojResolveAssemblyReference.cache
+C:\Users\Johny\Documents\Visual studio 2010\Projects\NotepaD\NotepaD\obj\x86\Debug\NotepaD.Form3.resources
+D:\Programming\Installation\NotepaD\obj\x86\Debug\NotepaD.csprojResolveAssemblyReference.cache
+D:\Programming\Installation\NotepaD\obj\x86\Debug\NotepaD.Form3.resources
+D:\Programming\Installation\NotepaD\obj\x86\Debug\NotepaD.Properties.Resources.resources
+D:\Programming\Installation\NotepaD\obj\x86\Debug\NotepaD.csproj.GenerateResource.Cache
+D:\Programming\Installation\NotepaD\bin\Debug\Notepad#.exe
+D:\Programming\Installation\NotepaD\bin\Debug\Notepad#.pdb
+D:\Programming\Installation\NotepaD\obj\x86\Debug\Notepad#.exe
+D:\Programming\Installation\NotepaD\obj\x86\Debug\Notepad#.pdb
+D:\Programming\Installation\NotepaD\obj\x86\Debug\NotepaD.Form1.resources
+D:\Programming\Proiecte It\NotepaD\obj\x86\Debug\Notepad#.exe
+D:\Programming\Proiecte It\NotepaD\obj\x86\Debug\Notepad#.pdb
+D:\Programming\Proiecte It\NotepaD\bin\Debug\Notepad#.exe
+D:\Programming\Proiecte It\NotepaD\bin\Debug\Notepad#.pdb
+D:\Programming\Proiecte It\NotepaD\obj\x86\Debug\NotepaD.csprojResolveAssemblyReference.cache
+D:\Programming\Proiecte It\NotepaD\obj\x86\Debug\NotepaD.Form1.resources
+D:\Programming\Proiecte It\NotepaD\obj\x86\Debug\NotepaD.Form3.resources
+D:\Programming\Proiecte It\NotepaD\obj\x86\Debug\NotepaD.Properties.Resources.resources
+D:\Programming\Proiecte It\NotepaD\obj\x86\Debug\NotepaD.csproj.GenerateResource.Cache
